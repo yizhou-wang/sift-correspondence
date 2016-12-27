@@ -31,7 +31,7 @@ In the following report, we use SIFT correspondence to accomplish scene alignmen
 | 128 * 128          | 90%           | 68.080ms  | 2397.23ms     |
 | 144 * 144          | 91%           | 93.008ms  | 3592.07ms     |
 
-### Reference
+## Reference
 
 [1] Vedaldi, A., 2007. An open implementation of the SIFT detector and descriptor. UCLA CSD.
 
