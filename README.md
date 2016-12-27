@@ -1,7 +1,7 @@
 # SIFT Correspondence: Scene Alignment using Key-point Matching
 ### Author: Yizhou Wang
 
-This is the source code and dataset for SIFT Correspondence. 
+This is the source code and dataset for SIFT Correspondence. Please cite when using my code.
 
 ## Abstract
 
