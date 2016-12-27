@@ -33,5 +33,8 @@ In the following report, we use SIFT correspondence to accomplish scene alignmen
 
 ### Reference
 
-Vedaldi, A., 2007. An open implementation of the SIFT detector and
-descriptor. UCLA CSD.
+[1] Vedaldi, A., 2007. An open implementation of the SIFT detector and descriptor. UCLA CSD.
+
+[2] Liu C., Yuen J. and Torralba A., 2011. Sift flow: Dense correspondence across scenes and its applications. IEEE transactions on pattern analysis and machine intelligence, 33(5), pp.978-994.
+
+[3] Lowe D.G., 1999. Object recognition from local scale-invariant features. Computer vision, 1999. The proceedings of the seventh IEEE international conference (Vol. 2, pp. 1150-1157). Ieee.
