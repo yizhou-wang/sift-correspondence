@@ -21,9 +21,15 @@ In the following report, we use SIFT correspondence to accomplish scene alignmen
 
 | Image Size (pixel) | Test Accuracy |
 | ------------------ |:-------------:|
-| $16 \times 16$     | 10%           |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| 16 * 16            | 10%           |
+| 32 * 32            | 27%           |
+| 48 * 48            | 41%           |
+| 64 * 64            | 70%           |
+| 80 * 80            | 89%           |
+| 96 * 96            | 92%           |
+| 112 * 112          | 93%           |
+| 128 * 128          | 90%           |
+| 144 * 144          | 91%           |
 
 ### Reference
 
